@@ -1,0 +1,240 @@
+[
+    {
+        "course": "RS101",
+        "assignments": [
+            {
+                "type": "Assignments",
+                "percentage": "40% of Total",
+                "items": [
+                    {
+                        "id": "a1",
+                        "itemTitle": "A1 Setup",
+                        "subText": "Week 0",
+                        "link": ""
+                    },
+                    {
+                        "id": "a2",
+                        "itemTitle": "A2 HTML",
+                        "subText": "Week 1",
+                        "link": ""
+                    },
+                    {
+                        "id": "a3",
+                        "itemTitle": "A3 CSS",
+                        "subText": "Week 2",
+                        "link": ""
+                    },
+                    {
+                        "id": "a4",
+                        "itemTitle": "A4 BOOTSTRAP",
+                        "subText": "Not available yet",
+                        "link": ""
+                    },
+                    {
+                        "id": "a5",
+                        "itemTitle": "A5 JAVASCRIPT",
+                        "subText": "Not available yet",
+                        "link": ""
+                    },
+                    {
+                        "id": "a6",
+                        "itemTitle": "A6 REACT",
+                        "subText": "Not available yet",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "type": "Quizzes",
+                "percentage": "10% of Total",
+                "items": [
+                    {
+                        "id": "q1",
+                        "itemTitle": "Q1",
+                        "subText": "Week 0",
+                        "link": ""
+                    },
+                    {
+                        "id": "q2",
+                        "itemTitle": "Q2",
+                        "subText": "Week 1",
+                        "link": ""
+                    },
+                    {
+                        "id": "q3",
+                        "itemTitle": "Q3",
+                        "subText": "Week 2",
+                        "link": ""
+                    },
+                    {
+                        "id": "q4",
+                        "itemTitle": "Q4",
+                        "subText": "Not available yet",
+                        "link": ""
+                    },
+                    {
+                        "id": "q5",
+                        "itemTitle": "Q5",
+                        "subText": "Not available yet",
+                        "link": ""
+                    },
+                    {
+                        "id": "q6",
+                        "itemTitle": "Q6",
+                        "subText": "Not available yet",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "type": "Exams",
+                "percentage": "20% of Total",
+                "items": [
+                    {
+                        "id": "e1",
+                        "itemTitle": "Midterm Multiple Modules",
+                        "subText": "Not available yet",
+                        "link": ""
+                    },
+                    {
+                        "id": "e2",
+                        "itemTitle": "Final Multiple Modules",
+                        "subText": "Not available yet",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "type": "Project",
+                "percentage": "30% of Total",
+                "items": [
+                    {
+                        "id": "p1",
+                        "itemTitle": "Project Multiple Modules",
+                        "subText": "Not available yet",
+                        "link": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course": "RS102",
+        "assignments": [
+            {
+                "type": "Assignments",
+                "percentage": "40% of Total",
+                "items": [
+                    {
+                        "id": "a1",
+                        "itemTitle": "A1 Setup",
+                        "subText": "Week 0",
+                        "link": ""
+                    },
+                    {
+                        "id": "a2",
+                        "itemTitle": "A2 HTML",
+                        "subText": "Week 1",
+                        "link": ""
+                    },
+                    {
+                        "id": "a3",
+                        "itemTitle": "A3 CSS",
+                        "subText": "Week 2",
+                        "link": ""
+                    },
+                    {
+                        "id": "a4",
+                        "itemTitle": "A4 BOOTSTRAP",
+                        "subText": "Not available yet",
+                        "link": ""
+                    },
+                    {
+                        "id": "a5",
+                        "itemTitle": "A5 JAVASCRIPT",
+                        "subText": "Not available yet",
+                        "link": ""
+                    },
+                    {
+                        "id": "a6",
+                        "itemTitle": "A6 REACT",
+                        "subText": "Not available yet",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "type": "Quizzes",
+                "percentage": "10% of Total",
+                "items": [
+                    {
+                        "id": "q1",
+                        "itemTitle": "Q1",
+                        "subText": "Week 0",
+                        "link": ""
+                    },
+                    {
+                        "id": "q2",
+                        "itemTitle": "Q2",
+                        "subText": "Week 1",
+                        "link": ""
+                    },
+                    {
+                        "id": "q3",
+                        "itemTitle": "Q3",
+                        "subText": "Week 2",
+                        "link": ""
+                    },
+                    {
+                        "id": "q4",
+                        "itemTitle": "Q4",
+                        "subText": "Not available yet",
+                        "link": ""
+                    },
+                    {
+                        "id": "q5",
+                        "itemTitle": "Q5",
+                        "subText": "Not available yet",
+                        "link": ""
+                    },
+                    {
+                        "id": "q6",
+                        "itemTitle": "Q6",
+                        "subText": "Not available yet",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "type": "Exams",
+                "percentage": "20% of Total",
+                "items": [
+                    {
+                        "id": "e1",
+                        "itemTitle": "Midterm Multiple Modules",
+                        "subText": "Not available yet",
+                        "link": ""
+                    },
+                    {
+                        "id": "e2",
+                        "itemTitle": "Final Multiple Modules",
+                        "subText": "Not available yet",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "type": "Project",
+                "percentage": "30% of Total",
+                "items": [
+                    {
+                        "id": "p1",
+                        "itemTitle": "Project Multiple Modules",
+                        "subText": "Not available yet",
+                        "link": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

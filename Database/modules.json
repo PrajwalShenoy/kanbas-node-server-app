@@ -1,0 +1,80 @@
+[
+    {
+        "_id": "1",
+        "course": "RS101",
+        "moduleName": "Week 0 - Intro",
+        "moduleDescription": "Introduction to the course, Learn what is Web Development, Creating a development environment, Creating a Web Application, Getting started with the 1st assignment"
+    },
+    {
+        "_id": "2",
+        "course": "RS101",
+        "moduleName": "Week 1 - HTML",
+        "moduleDescription": "Learn how to create user interfaces with HTML, Keep working on assignment 1, Deploy the assignment to Netlify"
+    },
+    {
+        "_id": "3",
+        "course": "RS101",
+        "moduleName": "Week 2 - CSS",
+        "moduleDescription": "Learn how to style user interfaces with CSS, Keep working on assignment 1, Deploy the assignment to Netlify"
+    },
+    {
+        "_id": "4",
+        "course": "RS101",
+        "moduleName": "Week 3 - JavaScript",
+        "moduleDescription": "Learn how to add interactivity to user interfaces with JavaScript, Keep working on assignment 1, Deploy the assignment to Netlify"
+    },
+    {
+        "_id": "5",
+        "course": "RS102",
+        "moduleName": "Week 4 - React",
+        "moduleDescription": "Learn how to create user interfaces with React, Keep working on assignment 1, Deploy the assignment to Netlify"
+    },
+    {
+        "_id": "6",
+        "course": "RS102",
+        "moduleName": "Week 5 - Node.js",
+        "moduleDescription": "Learn how to create server-side applications with Node.js, Keep working on assignment 1, Deploy the assignment to Netlify"
+    },
+    {
+        "_id": "7",
+        "course": "RS102",
+        "moduleName": "Week 6 - Express",
+        "moduleDescription": "Learn how to create server-side applications with Express, Keep working on assignment 1, Deploy the assignment to Netlify"
+    },
+    {
+        "_id": "8",
+        "course": "RS102",
+        "moduleName": "Week 7 - MongoDB",
+        "moduleDescription": "Learn how to create server-side applications with MongoDB, Keep working on assignment 1, Deploy the assignment to Netlify"
+    },
+    {
+        "_id": "9",
+        "course": "RS103",
+        "moduleName": "Week 8 - Mongoose",
+        "moduleDescription": "Learn how to create server-side applications with Mongoose, Keep working on assignment 1, Deploy the assignment to Netlify"
+    },
+    {
+        "_id": "10",
+        "course": "RS103",
+        "moduleName": "Week 9 - Authentication",
+        "moduleDescription": "Learn how to create server-side applications with Authentication, Keep working on assignment 1, Deploy the assignment to Netlify"
+    },
+    {
+        "_id": "11",
+        "course": "RS103",
+        "moduleName": "Week 10 - Deployment",
+        "moduleDescription": "Learn how to deploy your application to the cloud, Keep working on assignment 1, Deploy the assignment to Netlify"
+    },
+    {
+        "_id": "12",
+        "course": "RS103",
+        "moduleName": "Week 11 - Testing",
+        "moduleDescription": "Learn how to test your application, Keep working on assignment 1, Deploy the assignment to Netlify"
+    },
+    {
+        "_id": "13",
+        "course": "RS103",
+        "moduleName": "Week 12 - Final Project",
+        "moduleDescription": "Learn how to create a full-stack application, Keep working on assignment 1, Deploy the assignment to Netlify"
+    }
+]
