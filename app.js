@@ -5,7 +5,6 @@ import CourseRoutes from "./courses/routes.js";
 import cors from "cors";
 import ModuleRoutes from "./modules/routes.js";
 import "dotenv/config";
-app.use(cors());
 
 const app = express();
 app.use(cors());
