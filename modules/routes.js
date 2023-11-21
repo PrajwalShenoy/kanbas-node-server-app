@@ -13,6 +13,16 @@ function ModuleRoutes(app) {
         res.send(modules);
     });
 
+    app.get("/api/modules", (req, res) => {
+        const { cid } = req.params;
+        const modules = Database.modules;
+        if (!modules) {
+            res.sendStatus(404).send("Modules not found");
+            return;
+        }
+        res.send(modules);
+    });
+
 
     app.post("/api/courses/:cid/modules", (req, res) => {
         const { cid } = req.params;
