@@ -5,6 +5,9 @@ import CourseRoutes from "./courses/routes.js";
 import cors from "cors";
 import ModuleRoutes from "./modules/routes.js";
 import "dotenv/config";
+// import mongoose from "mongoose";
+
+// mongoose.connect("mongodb://localhost:27017/kanbas");
 
 const app = express();
 app.use(cors());
